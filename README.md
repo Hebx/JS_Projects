@@ -1,2 +1,2 @@
-# JS_Projects
-JavaScript Projects
+# WebDev-Projects
+## JavaScript Projects
