@@ -1,2 +1,2 @@
-# WebDev-Projects
+# Web Dev Projects
 
